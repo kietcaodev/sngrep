@@ -1,3 +1,4 @@
+apt remove sngrep -y
 cd /tmp
 wget http://deb.debian.org/debian/pool/main/s/sngrep/sngrep_1.4.8.orig.tar.gz
 tar -xzvf sngrep_1.4.8.orig.tar.gz
