@@ -2,7 +2,7 @@ apt remove sngrep -y
 
 cd /tmp/
 
-wget -O -  https://raw.githubusercontent.com/kietcaodev/sngrep/090890852505025912f795612594e1bd6b92f474/sngrep.sh | sh;
+wget -O -  https://github.com/kietcaodev/sngrep/blob/ac7f4157061d8bbb44df6e3eb77d39b561c274e0/sngrep.sh | sh;
 
 chmod 755 sngrep.sh
 
