@@ -8,4 +8,4 @@ cd sngrep-1.4.8
 ./configure
 make
 make install
-cp /tmp/sngrep-1.4.8/src /usr/bin/
+cp /tmp/sngrep-1.4.8/src/sngrep /usr/bin/
